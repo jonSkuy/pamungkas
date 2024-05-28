@@ -1,0 +1,28 @@
+body {background-color:yellow;
+      border:3px solid gray;
+      border-radius:16px;
+}
+
+h1 {font-famiy:arial;
+    font-weight:bold;
+    text-align:center;
+    color:black;
+}
+
+nav ul {list-style-type:none;
+}
+
+nav ul li {display:inline;
+}
+
+iframe {
+   margin: auto;
+   display: block;
+   width: 700px;
+}
+
+img{
+  width:320px;
+  margin-left:43%;
+  margin-top:5%
+}
